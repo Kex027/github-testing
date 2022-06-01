@@ -4,7 +4,8 @@ repository for learing git
 
 additional text
 
-#Local developement
+# Local developement
 
 1. Open index.html in your browser
 2. Have fun
+3. Last one 
